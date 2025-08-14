@@ -24,7 +24,7 @@ style.css                   # Stylesheet utama (root)
 3. File `style.css` sudah terhubung otomatis
 
 ## 📝 Catatan
-- Ini Adalah versi full release dari project sebelumnya **1.2 Project : aSyntax -cSyntax*** Yang sudah di gabungkan.
+- Ini Adalah versi full release dari project sebelumnya **1.2 Project : aSyntax -cSyntax** Yang sudah di gabungkan.
 - Koleksi pribadi untuk **referensi coding**
 - Urutan file berdasarkan kompleksitas materi
 - Bisa dikembangkan sesuai kebutuhan
